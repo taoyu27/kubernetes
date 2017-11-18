@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/hyperkube:v1.7.10
+FROM gcr.io/google_containers/hyperkube:v1.8.3
